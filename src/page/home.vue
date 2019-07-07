@@ -16,7 +16,7 @@
       <!-- 大数据 -->
       <mideaData></mideaData>
       <load-more :tip="'正在加载'" v-if="true"></load-more>
-      <divider class="bottom-line" v-else>我是有底线的aaaaaaaaaaattttttttaddtatataaa</divider>
+      <divider class="bottom-line" v-else>我是有底线的aaaaaaaaaaattttttttaddtatataaattttttttt</divider>
       <backTop></backTop>
     </div>
   </div>
